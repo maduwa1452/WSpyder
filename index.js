@@ -100,7 +100,7 @@ async function connectToWA() {
 
       robin.sendMessage(ownerNumber + "@s.whatsapp.net", {
         image: {
-          url: `https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20cs.jpg`,
+          url: `https://downloadwap.com/thumbs2/wallpapers/p2ls/26/misc/nrImZaUl.jpg`,
         },
         caption: up,
       });
